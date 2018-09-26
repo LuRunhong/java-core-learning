@@ -25,7 +25,6 @@ import java.util.Arrays;
  */
 interface ProcessorInter {
     String name();
-
     Object process(Object input);
 }
 

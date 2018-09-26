@@ -56,6 +56,10 @@ public class BaseDataType {
                 + (int) Character.MAX_VALUE);
 
             //boolean
+            boolean b = true;
+            Boolean b2 = false;
+            System.out.println(b);
+            System.out.println(b2);
 
         }
 
